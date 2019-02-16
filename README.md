@@ -1,5 +1,5 @@
 # Machine-Learning-Task
-Complted task for:
+Completed task for:
 
 https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_r
 ussian/topic01_pandas_data_analysis/lesson1_practice_pan
